@@ -1,5 +1,5 @@
 # Reto-3 IA
-# Solución al reto 3 :water:
+# Solución al reto 3 ::|:
 Solución de problemas usando cognitive services de microsoft
 
 Autor: Rodrigo Hinojosa Cruz
